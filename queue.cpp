@@ -33,7 +33,7 @@ int main(int argc, char *argv[])
 
     cout << "\033[1;32m[+] isempty?\033[0m" << endl;
     if(qu_test->empty())
-        cout << "Empty!" << endl;
+        cout << "Empty! size : " << qu_test->size() << endl;
 
     return 0;
 }
