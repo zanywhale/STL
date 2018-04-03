@@ -1,13 +1,18 @@
 # STL
 
+C++ STL examples
+
 ## STL lists
- - hash_map (It's not standard) / unordered_map
- - hash_set (It's not standard) / unordered_set
+ - map
+ - hash_map
+ - unordered_map
+ - unordered_set
  - multiset
  - multimap
  - set
- - map
  - deque
+ - queue
+ - stack
  - list
  - vector
 
