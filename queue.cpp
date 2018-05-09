@@ -1,5 +1,16 @@
 // g++ queue.cpp -o queue -std=c++11 -Wall
-#include <queue>
+
+//// queue public member functions
+// push()
+// pop()
+// front()
+// back()
+// empty()
+// size()
+
+//// C++11
+// emplace()
+// swap()
 #include <iostream>
 #include <stdint.h>
 
@@ -8,7 +19,8 @@ using namespace std;
 int main(int argc, char *argv[])
 {
     // how2make queue
-    // queue<value variable type>* [Variable_name] = new queue<value variable type>
+    // queue<Type>* [Variable_name] = new queue<value variable type>
+    // queue<Type> [Variable_Name];
     queue<string>* qu_test = new queue<string>;
 
     // insert
