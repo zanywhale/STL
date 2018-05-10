@@ -73,3 +73,23 @@ int main(int argc, char *argv[])
     // vt_test.swap(vt_test2);
     return 0;
 }
+
+// STL Vector
+// at()
+// back()
+// begin()
+// clear()
+// empty()
+// end()
+// erase()
+// front()
+// insert()
+// max_size()
+// pop_back()
+// push_back()
+// rbegin()
+// resize
+// reserve
+// size
+// swap
+
